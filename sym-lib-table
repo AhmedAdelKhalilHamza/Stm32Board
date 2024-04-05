@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MP2359DJ-LF-Z")(type "KiCad")(uri "${KIPRJMOD}/library/mp2359DJ/MP2359DJ-LF-Z/KiCad/MP2359DJ-LF-Z.kicad_sym")(options "")(descr ""))
+)

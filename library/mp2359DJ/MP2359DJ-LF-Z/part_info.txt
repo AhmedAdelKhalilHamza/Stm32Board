@@ -1,0 +1,9 @@
+Manufacturer=Monolithic Power Systems (MPS)
+PartNumber=MP2359DJ-LF-Z
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (6-Pin)
+PinCount=6
+Version=3.1
+Released=2016-07-24 18:53:37
+Downloaded=2024-03-25 09:38:59
+3D=Y
